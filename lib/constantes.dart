@@ -9,8 +9,6 @@ const azul2 = Color(0xFF77A8CE);
 const azul3 = Color(0x6677A8CE);
 const azul4 = Color(0xFF2DA193);
 
-const usuario = 'Sebas';
-const pass = '12345';
 
 const List<Color> colores24 = <Color>[
   Color(0xFFF44336), // Red 500
@@ -37,17 +35,4 @@ const List<Color> colores24 = <Color>[
   Color(0xFF512DA8), // Deep Purple 700
   Color(0xFF1976D2), // Blue 700
   Color(0xFF388E3C), // Green 700
-];
-
-
-List usuarios = [
-  /// ID # NOMBRE # APELLIDOS # CONTRASEÑA # FECHA_NAC # BANDERA #
-  '1#FERNANDO#ESCOBAR#123456#04/02/04#1',
-  '2#MARIA#LOPEZ#qwerty#15/08/02#0',
-  '3#JUAN#PEREZ#abc123#23/11/01#1',
-  '4#ANA#MARTINEZ#clave321#09/05/03#0',
-  '5#CARLOS#RAMIREZ#pass789#30/12/00#1',
-  '6#SOFIA#GOMEZ#contraseña#14/07/05#0',
-  '7#DANIEL#HERNANDEZ#zxcasd#22/03/99#1',
-  '8#LAURA#TORRES#mypass#05/01/06#0',
 ];
